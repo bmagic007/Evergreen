@@ -103,6 +103,8 @@ Holding subfield::
   Used in the acquisitions module to map subfields to the appropriate item data. 
 [[I]]ICL (Inter-Consortium Loans)::
   Inter-Consortium Loans are like ILL's, but different in the fact that the loan happens just with in the Consortium. 
+IDL (Interface Definition Language)::
+  A model that Evergreen's software components use to understand how Evergreen's data are structured. Also sometimes referred as the "Fieldmapper IDL".
 [[ILS]]ILS (Integrated Library System)::
   The Integrated Library System is a set of applications which perform the business and technical aspects of library management, including but not exclusive to acquistions, cataloging, circulation, and booking. 
 ILL (Inter-Library Loan)::
